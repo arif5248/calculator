@@ -1,0 +1,25 @@
+
+.calculator_section{
+    height: 700px;
+    /* width: max-content; */
+    background-color: aquamarine;
+    /* background: linear-gradient(0deg, rgba(241, 236, 236, 0.54), rgba(39, 37, 38, 0.69)), url("OIP\ \(1\).jpg"); */
+    background-image: url("bg.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.calculator{
+    padding-top: 170px;
+}
+.btn{
+    height: 50px;
+    width: 50px;
+    margin: 2px;
+}
+.form{
+    height: 50px;
+    width: 222px;
+    margin: 2px;
+    text-align: right;
+}
